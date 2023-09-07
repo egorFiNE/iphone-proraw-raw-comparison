@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "iphone-proraw-raw-comparison",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "sharp": "^0.32.5"
+  }
+}
